@@ -1,0 +1,115 @@
+/* Reckon1 starts */
+#reckon1img {
+    margin-top: 10px;
+    margin-left: 120px;
+    width: 320px;
+  
+  }
+  
+  #reckon1 {
+    /* margin-left: 100px; */
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+  }
+  
+ 
+  
+  @media screen and (max-width: 767px) {
+    #reckon1img {
+      margin-top: 0px;
+      margin-left: 40px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+    #reckon1  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #reckon1img {
+      margin-top: 0px;
+      margin-left: 80px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+  
+    #reckon1 {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+  
+  /* Reckon1 ends */
+
+
+
+  #cards {
+    margin-left: 80px;
+    margin-top: 50px;
+  }
+
+  #cards .card-body {
+    background-color: whitesmoke;
+  }
+
+
+  @media screen and (max-width:767px) {
+    #cards {
+        margin-left: 20px;
+        margin-top: 50px;
+      }
+
+  }
+
+  @media screen and (min-width:767px) and (max-width:1023px) {
+    #cards {
+        margin-left: 50px;
+        margin-top: 50px;
+        width: 100%;
+        margin-bottom: 20px;
+        font-size: 12px;
+
+      }
+   
+  }
+
+
+  
+  #cards1 {
+    margin-left: 230px;
+    margin-top: 50px;
+  }
+
+  #cards1 .card-body {
+    background-color: whitesmoke;
+  }
+
+
+  @media screen and (max-width:767px) {
+    #cards1 {
+        margin-left: 20px;
+        margin-top: 50px;
+      }
+
+  }
+
+  @media screen and (min-width:767px) and (max-width:1023px) {
+    #cards1 {
+        margin-left: 50px;
+        margin-top: 50px;
+        width: 100%;
+        margin-bottom: 20px;
+        
+      }
+   
+  }

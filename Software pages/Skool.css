@@ -1,0 +1,254 @@
+/* skool1 starts */
+.card {
+  
+    font-weight: 600;
+    /* background-image: linear-gradient(to right, rgb(166, 179, 252), rgb(208, 228, 138)); */
+    border: none;
+    overflow: hidden;
+  
+  }
+  
+  #skool1img1 {
+    margin-top: 40px;
+    margin-left: 100px;
+    width: 380px;
+  
+  }
+  
+  #skool1 {
+    /* margin-left: 100px; */
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+  }
+  
+ 
+  
+  @media screen and (max-width: 767px) {
+    #skool1img1 {
+      margin-top: 0px;
+      margin-left: 40px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+    #skool1  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #skool1img1 {
+      margin-top: 0px;
+      margin-left: 80px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+  
+    #skool1 {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+  
+  /* skool1 ends */
+
+
+
+  
+/* ERP starts */
+
+
+
+
+#erp ul {
+    margin-left: 120px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 20px;
+    text-align: justify;
+}
+
+#erp1 ul {
+    margin-left: 120px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 20px;
+    text-align: justify;
+  }
+
+
+@media screen and (max-width: 767px) {
+   
+    #erp ul{
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 10px;
+        text-indent: 20px;
+      }
+      #erp1 ul {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        text-indent: 20px;
+        margin-left: 30px;
+        
+    }
+   
+  }
+
+ @media screen and (min-width:767px) and (max-width: 1023px) {
+  
+  
+    #erp ul {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 20px;
+      margin-left: 50px;
+    }
+    #erp1 ul {
+        width: 700px;
+        font-size: 18px;
+        line-height: 35px;
+        text-indent: 20px;
+        margin-left: 250px;
+      }
+  }
+
+
+
+/* ERP ends */
+
+
+
+
+/* Module starts */
+
+
+#moduleimg  {
+    margin-top: 60px;
+    margin-left: 10px;
+    /* height: 700px; */
+    width: 380px;
+  
+}
+
+#module ul {
+    margin-left: 290px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 20px;
+    text-align: justify;
+}
+
+
+@media screen and (max-width: 767px) {
+    #moduleimg {
+      margin-top: 10px;
+      margin-left: 40px;
+      width: 80%;
+    }
+    #module ul{
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 20px;
+        text-indent: 20px;
+      }
+   
+  }
+
+ @media screen and (min-width:767px) and (max-width: 1023px) {
+    #moduleimg {
+      margin-top: 10px;
+      margin-left: 80px;
+      width: 80%;
+    }
+  
+    #module ul {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 20px;
+      margin-left: 30px;
+    }
+  }
+
+/* Module ends */
+
+/* featuresskool */
+
+
+/* same as erp1 */  /* ////// */
+
+
+/* featuresskool */
+
+
+
+/* Special starts */
+
+
+#specialimg  {
+    margin-top: 10px;
+    margin-left: 120px;
+    /* height: 700px; */
+    width: 300px;
+  
+}
+
+#special ul {
+    margin-left: 20px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 20px;
+    text-align: justify;
+}
+
+
+@media screen and (max-width: 767px) {
+    #specialimg {
+      margin-top: 10px;
+      margin-left: 40px;
+      width: 80%;
+    }
+    #special ul{
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 20px;
+        text-indent: 20px;
+      }
+   
+  }
+
+ @media screen and (min-width:767px) and (max-width: 1023px) {
+    #specialimg {
+      margin-top: 10px;
+      margin-left: 80px;
+      width: 80%;
+    }
+  
+    #special ul {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 20px;
+      margin-left: 30px;
+    }
+  }
+
+
+
+/* Special ends */
+
+

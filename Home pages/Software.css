@@ -1,0 +1,494 @@
+/* pay starts */
+.card {
+  
+  font-weight: 600;
+  background-image: linear-gradient(to right, rgb(220, 225, 245), rgb(154, 139, 223));
+  /* background-image: linear-gradient(to right, rgb(220, 225, 245), rgb(250, 148, 135)); */
+  /* background-color: rgb(169, 178, 219); */
+  
+
+  border: none !important;
+  overflow: hidden !important;
+}
+
+.main {
+  /* background-color: blue; */
+  /* background: url("file:///D:/Gomath/my-app/src/Images/bggif.gif"); */
+  /* background: url("file:///D:/Gomath/my-app/src/Images/anime.gif"); */
+  /* background: url("file:///D:/Gomath/my-app/src/Images/animation.gif"); */
+  background: url("file:///C:/Users/hp/Downloads/animation1.gif");
+  opacity: 0.9;
+  background-position: center;
+  /* background-repeat: no-repeat; */
+  color: white;
+}
+
+.main h1 {
+  font-weight: 700;
+  font-style: italic;
+  
+}
+
+#payimg {
+  margin-top: 40px;
+  margin-left: 100px;
+  width: 380px;
+
+}
+
+#pay {
+  /* margin-left: 100px; */
+  font-size: 18px;
+  line-height: 35px;
+  text-indent: 80px;
+  text-align: justify;
+}
+
+#btn1 {
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: rgb(21, 173, 34);
+  font-weight: 700;
+}
+
+#btn2 {
+  margin-left: 100px;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: rgb(21, 173, 34);
+  font-weight: 700;
+
+}
+
+
+@media screen and (max-width: 767px) {
+  #payimg {
+    margin-top: 0px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    width: 80%;
+  }
+  #pay  {
+      width: 100%;
+      font-size: 18px;
+      line-height: 35px;
+      margin-left: 0px;
+      text-indent: 80px;
+    }
+   
+}
+
+@media screen and (min-width:767px) and (max-width: 1023px) {
+  #payimg {
+    margin-top: 0px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+    width: 80%;
+  }
+
+  #pay {
+    width: 700px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    margin-left: 0px;
+  }
+}
+
+/* pay ends */
+
+
+
+/* eskool starts */
+
+#eskoolimg  {
+    margin-top: 100px;
+    margin-left: 10px;
+    /* height: 700px; */
+    width: 380px;
+  
+}
+
+#eskool  {
+    margin-left: 100px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+}
+
+
+@media screen and (max-width: 767px) {
+    #eskoolimg {
+      margin-top: 10px;
+      margin-left: 40px;
+      width: 80%;
+    }
+    #eskool  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+    #btn2 {
+      margin-left: 0px;
+    }
+  }
+
+ @media screen and (min-width:767px) and (max-width: 1023px) {
+    #eskoolimg {
+      margin-top: 10px;
+      margin-left: 80px;
+      width: 80%;
+    }
+  
+    #eskool {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+    #btn2 {
+      margin-left: 0px;
+    }
+  }
+
+/* eskool ends */
+
+
+/* e-optic starts */
+
+
+#opticimg {
+  margin-top: 20px;
+  margin-left: 100px !important;
+  width: 380px !important; 
+}
+
+#optic {
+  /* margin-left: 100px; */
+  font-size: 18px;
+  line-height: 35px;
+  text-indent: 80px;
+  text-align: justify;
+}
+
+
+@media screen and (max-width: 767px) {
+  #opticimg {
+    margin-top: 0px;
+    margin-left: 40px !important;
+    margin-bottom: 10px;
+    width: 80% !important;
+  }
+  #optic  {
+      width: 100%;
+      font-size: 18px;
+      line-height: 35px;
+      margin-left: 0px;
+      text-indent: 80px;
+    }
+}
+
+@media screen and (min-width:767px) and (max-width: 1023px) {
+  #opticimg {
+    margin-top: 0px;
+    margin-left: 80px !important;
+    margin-bottom: 10px;
+    width: 80% !important;
+  }
+
+  #optic {
+    width: 700px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    margin-left: 0px;
+  }
+}
+
+/* e-optic ends */
+
+
+/* e-petro starts */
+
+
+
+#epetroimg  {
+  margin-top: 50px;
+  margin-left: 10px;
+  width: 380px !important;
+}
+
+#epetro  {
+  margin-left: 100px;
+  font-size: 18px;
+  line-height: 35px;
+  text-indent: 80px;
+  text-align: justify;
+}
+
+
+@media screen and (max-width: 767px) {
+  #epetroimg {
+    margin-top: 10px;
+    margin-left: 40px !important;
+    width: 80% !important;
+  }
+  #epetro  {
+      width: 100%;
+      font-size: 18px;
+      line-height: 35px;
+      margin-left: 0px;
+      text-indent: 80px;
+    }
+}
+
+@media screen and (min-width:767px) and (max-width: 1023px) {
+  #epetroimg {
+    margin-top: 10px;
+    margin-left: 80px;
+    width: 80% !important;
+  }
+
+  #epetro {
+    width: 700px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    margin-left: 0px;
+  }
+}
+
+/* e-petro ends */
+
+
+
+/* e-hotel starts */
+
+
+
+#ehotelimg {
+  margin-top: 50px;
+  margin-left: 100px !important;
+  width: 380px !important;
+
+}
+
+#ehotel {
+  /* margin-left: 100px; */
+  font-size: 18px;
+  line-height: 35px;
+  text-indent: 80px;
+  text-align: justify;
+}
+
+
+@media screen and (max-width: 767px) {
+  #ehotelimg {
+    margin-top: 0px;
+    margin-left: 40px !important;
+    margin-bottom: 10px;
+    width: 80% !important;
+  }
+  #ehotel  {
+      width: 100%;
+      font-size: 18px;
+      line-height: 35px;
+      margin-left: 0px;
+      text-indent: 80px;
+    }
+}
+
+@media screen and (min-width:767px) and (max-width: 1023px) {
+  #ehotelimg {
+    margin-top: 0px;
+    margin-left: 80px !important;
+    margin-bottom: 10px;
+    width: 80% !important;
+  }
+
+  #ehotel {
+    width: 700px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    margin-left: 0px;
+  }
+}
+
+
+/* e-hotel ends */
+
+
+/* e-reckon starts */
+
+
+#ereckonimg  {
+  margin-top: 30px;
+  margin-left: 10px;
+  width: 380px !important;
+
+}
+
+#ereckon  {
+  margin-left: 100px;
+  font-size: 18px;
+  line-height: 35px;
+  text-indent: 80px;
+  text-align: justify;
+}
+
+
+@media screen and (max-width: 767px) {
+  #ereckonimg {
+    margin-top: 10px;
+    margin-left: 40px !important;
+    width: 80% !important;
+  }
+  #ereckon  {
+      width: 100%;
+      font-size: 18px;
+      line-height: 35px;
+      margin-left: 0px;
+      text-indent: 80px;
+    }
+}
+
+@media screen and (min-width:767px) and (max-width: 1023px) {
+  #ereckonimg {
+    margin-top: 10px;
+    margin-left: 80px;
+    width: 80% !important;
+  }
+
+  #ereckon {
+    width: 700px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    margin-left: 0px;
+  }
+}
+
+/* e-reckon ends */
+
+
+
+/* e-weigh starts */
+
+#eweighimg {
+  margin-top: 15px;
+  margin-left: 100px !important;
+  width: 380px !important;
+
+}
+
+#eweigh {
+  /* margin-left: 100px; */
+  font-size: 18px;
+  line-height: 35px;
+  text-indent: 80px;
+  text-align: justify;
+}
+
+
+@media screen and (max-width: 767px) {
+  #eweighimg {
+    margin-top: 0px;
+    margin-left: 40px !important;
+    margin-bottom: 10px;
+    width: 80% !important;
+  }
+  #eweigh  {
+      width: 100%;
+      font-size: 18px;
+      line-height: 35px;
+      margin-left: 0px;
+      text-indent: 80px;
+    }
+}
+
+@media screen and (min-width:767px) and (max-width: 1023px) {
+  #eweighimg {
+    margin-top: 0px;
+    margin-left: 80px !important;
+    margin-bottom: 10px;
+    width: 80% !important;
+  }
+
+  #eweigh {
+    width: 700px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    margin-left: 0px;
+  }
+}
+
+/* e-weigh ends */
+
+
+/* e-mines starts */
+
+
+#emineimg  {
+  margin-top: 100px !important;
+  margin-left: 10px;
+  width: 380px !important;
+
+}
+
+#emine  {
+  margin-left: 100px;
+  font-size: 18px;
+  line-height: 35px;
+  text-indent: 80px;
+  text-align: justify;
+}
+
+
+@media screen and (max-width: 767px) {
+  #emineimg {
+    margin-top: 10px !important;
+    margin-left: 40px !important;
+    width: 80% !important;
+  }
+  #emine  {
+      width: 100%;
+      font-size: 18px;
+      line-height: 35px;
+      margin-left: 0px;
+      text-indent: 80px;
+    }
+}
+
+@media screen and (min-width:767px) and (max-width: 1023px) {
+  #emineimg {
+    margin-top: 10px !important;
+    margin-left: 80px;
+    width: 80% !important;
+  }
+
+  #emine {
+    width: 700px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    margin-left: 0px;
+  }
+}
+
+
+/* e-mines ends */
+
+
+
+#link {
+  text-decoration: none;
+  color: black;
+}

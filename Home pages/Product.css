@@ -1,0 +1,591 @@
+
+
+/* time attendance starts */
+
+  #timeimg {
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 380px;
+  
+  }
+  
+  #time {
+    /* margin-left: 100px; */
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+  }
+  
+  #btn1 {
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(21, 173, 34);
+    font-weight: 700;
+  }
+  
+  #btn2 {
+    margin-left: 100px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(21, 173, 34);
+    font-weight: 700;
+  
+  }
+  
+  
+  @media screen and (max-width: 767px) {
+    #timeimg {
+      margin-top: 0px;
+      margin-left: 40px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+    #time  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #timeimg {
+      margin-top: 0px;
+      margin-left: 80px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+  
+    #time {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+  
+/* time attendance ends */
+  
+  
+/* Access control starts */
+  
+  #accessimg  {
+      margin-top: 150px;
+      margin-left: 10px;
+      /* height: 700px; */
+      width: 360px;
+    
+  }
+  
+  #access  {
+      margin-left: 100px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      text-align: justify;
+  }
+  
+  
+  @media screen and (max-width: 767px) {
+      #accessimg {
+        margin-top: 10px;
+        margin-left: 40px;
+        width: 80%;
+      }
+      #access {
+          width: 100%;
+          font-size: 18px;
+          line-height: 35px;
+          margin-left: 0px;
+          text-indent: 80px;
+        }
+      #btn2 {
+        margin-left: 0px;
+      }
+    }
+  
+   @media screen and (min-width:767px) and (max-width: 1023px) {
+      #accessimg {
+        margin-top: 10px;
+        margin-left: 80px;
+        width: 80%;
+      }
+    
+      #access {
+        width: 700px;
+        font-size: 18px;
+        line-height: 35px;
+        text-indent: 80px;
+        margin-left: 0px;
+      }
+      #btn2 {
+        margin-left: 0px;
+      }
+    }
+  
+/* Access control ends */
+  
+  
+  /* security starts */
+  
+  
+  #securityimg {
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 380px;
+  
+  }
+  
+  #security {
+    /* margin-left: 100px; */
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+  }
+  
+  
+  @media screen and (max-width: 767px) {
+    #securityimg {
+      margin-top: 0px;
+      margin-left: 40px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+    #security {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #securityimg {
+      margin-top: 0px;
+      margin-left: 80px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+  
+    #security {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+  
+  /* security ends */
+  
+  
+  /* smart card starts */
+  
+  
+  
+  #smartimg  {
+    margin-top: 150px;
+    margin-left: 10px;
+    width: 380px;
+  
+  }
+  
+  #smart  {
+    margin-left: 100px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+  }
+  
+  
+  @media screen and (max-width: 767px) {
+    #smartimg {
+      margin-top: 10px;
+      margin-left: 40px;
+      width: 80%;
+    }
+    #smart  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #smartimg {
+      margin-top: 10px;
+      margin-left: 80px;
+      width: 80%;
+    }
+  
+    #smart {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+  
+  /* smart card ends */
+  
+  
+  
+  /* rfid starts */
+  
+  
+  
+  #rfidimg {
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 380px;
+  
+  }
+  
+  #rfid {
+    /* margin-left: 100px; */
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+  }
+  
+  
+  @media screen and (max-width: 767px) {
+    #rfidimg {
+      margin-top: 0px;
+      margin-left: 40px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+    #rfid  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #rfidimg {
+      margin-top: 0px;
+      margin-left: 80px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+  
+    #rfid {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+  
+  
+  /* rfid ends */
+  
+  
+  /* tripod starts */
+  
+  
+  #tripodimg  {
+    margin-top: 110px;
+    margin-left: 10px;
+    width: 380px;
+  
+  }
+  
+  #tripod {
+    margin-left: 100px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+  }
+  
+  
+  @media screen and (max-width: 767px) {
+    #tripodimg {
+      margin-top: 10px;
+      margin-left: 40px;
+      width: 80%;
+    }
+    #tripod  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #tripodimg{
+      margin-top: 10px;
+      margin-left: 80px;
+      width: 80%;
+    }
+  
+    #tripod {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+  
+  /* tripod ends */
+  
+  
+  
+  /* others starts */
+  
+  #othersimg {
+    margin-top: 50px;
+    margin-left: 120px;
+    width: 340px;
+  
+  }
+  
+  #others {
+    /* margin-left: 100px; */
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+  }
+  
+  
+  @media screen and (max-width: 767px) {
+    #othersimg {
+      margin-top: 0px;
+      margin-left: 40px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+    #others  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #othersimg {
+      margin-top: 0px;
+      margin-left: 80px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+  
+    #others {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+  
+  /* others ends */
+  
+  
+ 
+  
+
+
+  /*  */
+
+
+  
+  #tsimg {
+    margin-top: 30px;
+    margin-left: 150px;
+    width: 300px;
+  }
+
+
+/* iface starts */
+
+#ifaceimg {
+  /* margin-top: 60px;
+  margin-left: 100px;
+  width: 380px; */
+  margin-top: 30px;
+  margin-left: 150px;
+  width: 300px;
+
+}
+
+
+
+
+
+#iface {
+  /* margin-left: 100px; */
+  font-size: 18px;
+  line-height: 35px;
+  text-indent: 80px;
+  text-align: justify;
+}
+
+
+
+@media screen and (max-width: 767px) {
+  #ifaceimg, #tsimg {
+    margin-top: 0px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    width: 80%;
+  }
+  #iface  {
+      width: 100%;
+      font-size: 18px;
+      line-height: 35px;
+      margin-left: 0px;
+      text-indent: 80px;
+    }
+}
+
+@media screen and (min-width:767px) and (max-width: 1023px) {
+  #ifaceimg, #tsimg {
+    margin-top: 0px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+    width: 80%;
+  }
+
+  #iface {
+    width: 700px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    margin-left: 0px;
+  }
+}
+
+/* iface ends */
+
+
+/* E9999 starts */
+
+#e9999img {
+  margin-top: 20px;
+  margin-left: 100px;
+  width: 380px;
+
+}
+
+#e9999 {
+  /* margin-left: 100px; */
+  font-size: 18px;
+  line-height: 35px;
+  text-indent: 80px;
+  text-align: justify;
+}
+
+
+
+@media screen and (max-width: 767px) {
+  #e9999img {
+    margin-top: 0px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    width: 80%;
+  }
+  #e9999  {
+      width: 100%;
+      font-size: 18px;
+      line-height: 35px;
+      margin-left: 0px;
+      text-indent: 80px;
+    }
+}
+
+@media screen and (min-width:767px) and (max-width: 1023px) {
+  #e9999img {
+    margin-top: 0px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+    width: 80%;
+  }
+
+  #e9999 {
+    width: 700px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    margin-left: 0px;
+  }
+}
+
+/* E9999 ends */
+
+
+
+/* Smartcard card starts */
+
+#contactimg {
+  margin-top: 180px;
+  margin-left: 100px;
+  width: 380px;
+
+}
+
+#proximityimg {
+  margin-top: 40px;
+  margin-left: 100px;
+  width: 380px;
+
+}
+
+#specificationimg {
+  margin-top: 80px;
+  margin-left: 100px;
+  width: 380px;
+}
+
+
+@media screen and (max-width: 767px) {
+  #contactimg,#proximityimg, #specificationimg {
+    margin-top: 0px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    width: 80%;
+  }
+  
+}
+
+@media screen and (min-width:767px) and (max-width: 1023px) {
+  #contactimg,#proximityimg, #specificationimg {
+    margin-top: 0px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+    width: 80%;
+  }
+
+  
+}
+
+
+/*  */
+/*  */
+
+
+

@@ -1,0 +1,11 @@
+#card {
+    border: none;
+    box-shadow: 3px 3px 3px 3px;
+    font-weight: 600;
+}
+
+#card1 {
+    border: none;
+    background-image: linear-gradient(to right, rgb(220, 225, 245), rgb(154, 139, 223));
+
+}

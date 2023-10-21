@@ -1,0 +1,291 @@
+/* hotel 1 starts */
+#hotel1img {
+    margin-top: 30px;
+    margin-left: 100px;
+    width: 380px;
+  
+  }
+  
+  #hotel1 {
+    /* margin-left: 100px; */
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+  }
+  
+ 
+  
+  @media screen and (max-width: 767px) {
+    #hotel1img {
+      margin-top: 0px;
+      margin-left: 40px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+    #hotel1  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #hotel1img {
+      margin-top: 0px;
+      margin-left: 80px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+  
+    #hotel1 {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+  
+  /* Hotel1 ends */
+
+
+
+  /* Front starts */
+
+
+  #frontimg  {
+    margin-top: 30px;
+    margin-left: 10px;
+    /* height: 700px; */
+    width: 380px;
+  
+}
+
+#front ul {
+    margin-left: 100px;
+    font-size: 18px;
+    line-height: 35px;
+    /* text-indent: 20px; */
+    text-align: justify;
+}
+
+
+@media screen and (max-width: 767px) {
+    #frontimg {
+      margin-top: 10px;
+      margin-left: 40px;
+      width: 80%;
+    }
+    #front ul{
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 10px;
+        /* text-indent: 20px; */
+      }
+   
+  }
+
+ @media screen and (min-width:767px) and (max-width: 1023px) {
+    #frontimg {
+      margin-top: 10px;
+      margin-left: 80px;
+      width: 80%;
+    }
+  
+    #front ul {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      /* text-indent: 20px; */
+      margin-left: 0px;
+    }
+  }
+
+
+  /* Front ends */
+
+
+
+
+  /* checkin starts */
+
+
+  #checkinimg  {
+    margin-top: 20px;
+    margin-left: 100px;
+    /* height: 700px; */
+    width: 380px;
+  
+}
+
+#checkin ul {
+    margin-left: 10px;
+    font-size: 18px;
+    line-height: 35px;
+    /* text-indent: 20px; */
+    text-align: justify;
+}
+
+
+@media screen and (max-width: 767px) {
+    #checkinimg {
+      margin-top: 10px;
+      margin-left: 40px;
+      width: 80%;
+    }
+    #checkin ul{
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 10px;
+        /* text-indent: 20px; */
+      }
+   
+  }
+
+ @media screen and (min-width:767px) and (max-width: 1023px) {
+    #checkinimg {
+      margin-top: 10px;
+      margin-left: 80px;
+      width: 80%;
+    }
+  
+    #checkin ul {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      /* text-indent: 20px; */
+      margin-left: 0px;
+    }
+  }
+
+
+  /* checkin ends */
+
+
+
+
+  /* Restaurant starts */
+
+
+  #resimg  {
+    margin-top: 60px;
+    margin-left: 10px;
+    /* height: 700px; */
+    width: 380px;
+  
+}
+
+#res ul {
+    margin-left: 150px;
+    font-size: 18px;
+    line-height: 35px;
+    /* text-indent: 20px; */
+    text-align: justify;
+}
+
+
+@media screen and (max-width: 767px) {
+    #resimg {
+      margin-top: 10px;
+      margin-left: 40px;
+      width: 80%;
+    }
+    #res ul{
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 10px;
+        /* text-indent: 20px; */
+      }
+   
+  }
+
+ @media screen and (min-width:767px) and (max-width: 1023px) {
+    #resimg {
+      margin-top: 10px;
+      margin-left: 80px;
+      width: 80%;
+    }
+  
+    #res ul {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      /* text-indent: 20px; */
+      margin-left: 0px;
+    }
+  }
+
+
+  /* Restaurant ends */
+
+
+  /* House keeping starts */
+
+
+  /* same as checkin Css!!!!! */
+
+
+ /* House keeping ends */
+
+
+
+
+
+ /* Account starts */
+
+ #acimg  {
+    margin-top: 30px;
+    margin-left: 10px;
+    /* height: 700px; */
+    width: 380px;
+  
+}
+
+#ac ul {
+    margin-left: 180px;
+    font-size: 18px;
+    line-height: 35px;
+    /* text-indent: 20px; */
+    text-align: justify;
+}
+
+
+@media screen and (max-width: 767px) {
+    #acimg {
+      margin-top: 10px;
+      margin-left: 40px;
+      width: 80%;
+    }
+    #ac ul{
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 10px;
+        /* text-indent: 20px; */
+      }
+   
+  }
+
+ @media screen and (min-width:767px) and (max-width: 1023px) {
+    #acimg {
+      margin-top: 10px;
+      margin-left: 80px;
+      width: 80%;
+    }
+  
+    #ac ul {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      /* text-indent: 20px; */
+      margin-left: 0px;
+    }
+  }
+
+  /* Account ends */

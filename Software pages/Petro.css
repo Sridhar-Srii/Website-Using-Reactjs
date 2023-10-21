@@ -1,0 +1,220 @@
+
+/* Petro1 starts */
+
+#petro1img {
+    margin-top: 30px;
+    margin-left: 120px;
+    width: 300px;
+  
+  }
+  
+  #petro1 {
+    /* margin-left: 100px; */
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+  }
+  
+ 
+  
+  @media screen and (max-width: 767px) {
+    #petro1img {
+      margin-top: 0px;
+      margin-left: 40px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+    #petro1  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #petro1img {
+      margin-top: 0px;
+      margin-left: 80px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+  
+    #petro1 {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+  
+  /* Petro1 ends */
+
+
+  /* Bill starts */
+
+
+  #billimg {
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 300px;
+  
+  }
+  
+  #bill {
+    margin-left: 120px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+  }
+  
+  
+  @media screen and (max-width: 767px) {
+    #billimg {
+      margin-top: 0px;
+      margin-left: 40px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+    #bill  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #billimg {
+      margin-top: 0px;
+      margin-left: 80px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+  
+    #bill {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+
+  /* Bill ends */
+
+
+
+/* Inventory starts */
+
+#inventoryimg {
+    margin-top: 10px;
+    margin-left: 120px;
+    width: 300px;
+  
+  }
+  
+  #inventory {
+    /* margin-left: 100px; */
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+  }
+  
+ 
+  
+  @media screen and (max-width: 767px) {
+    #inventoryimg {
+      margin-top: 0px;
+      margin-left: 40px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+    #inventory  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #inventoryimg {
+      margin-top: 0px;
+      margin-left: 80px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+  
+    #inventory {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+  
+  /* Inventory ends */
+
+  
+  /* Sales starts */
+
+
+  #saleimg {
+    margin-top: 80px;
+    margin-left: 10px;
+    width: 300px;
+  
+  }
+  
+  #sale {
+    margin-left: 120px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+  }
+  
+  
+  @media screen and (max-width: 767px) {
+    #saleimg {
+      margin-top: 0px;
+      margin-left: 40px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+    #sale  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #saleimg {
+      margin-top: 0px;
+      margin-left: 80px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+  
+    #sale {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+
+  /* Sales ends */

@@ -1,0 +1,137 @@
+/* Facial system starts */
+
+#facial1img {
+    margin-top: 40px;
+    margin-left: 120px;
+    width: 380px;
+  
+  }
+  
+  #facial1 {
+    /* margin-left: 100px; */
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+  }
+  
+  #btn1 {
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(21, 173, 34);
+    font-weight: 700;
+  }
+  
+  #btn2 {
+    margin-left: 100px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(21, 173, 34);
+    font-weight: 700;
+  
+  }
+  
+  
+  @media screen and (max-width: 767px) {
+    #facial1img {
+      margin-top: 0px;
+      margin-left: 40px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+    #facial1  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #facial1img {
+      margin-top: 0px;
+      margin-left: 80px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+  
+    #facial1 {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+  
+/* Facial system ends */
+  
+
+
+
+  
+/* Fingerprint system starts */
+  
+#fingerprint1img  {
+    margin-top: 100px;
+    margin-left: 10px;
+    width: 360px;
+  
+}
+
+#fingerprint1  {
+    margin-left: 100px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+}
+
+
+@media screen and (max-width: 767px) {
+    #fingerprint1img {
+      margin-top: 10px;
+      margin-left: 40px;
+      width: 80%;
+    }
+    #fingerprint1 {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+    #btn2 {
+      margin-left: 0px;
+    }
+  }
+
+ @media screen and (min-width:767px) and (max-width: 1023px) {
+    #fingerprint1img {
+      margin-top: 10px;
+      margin-left: 80px;
+      width: 80%;
+    }
+  
+    #fingerprint1 {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+    #btn2 {
+      margin-left: 0px;
+    }
+  }
+
+/* Fingerprint system ends */
+
+
+
+/* Smartcard system  */
+
+/* same as facial system */

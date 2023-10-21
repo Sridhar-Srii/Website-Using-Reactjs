@@ -1,0 +1,584 @@
+/* fire1 starts */
+
+#fire1img {
+    margin-top: 20px;
+    margin-left: 100px;
+    width: 380px;
+  
+  }
+  
+  #fire1 {
+    /* margin-left: 100px; */
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+  }
+  
+ 
+  
+  
+  @media screen and (max-width: 767px) {
+    #fire1img {
+      margin-top: 0px;
+      margin-left: 40px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+    #fire1  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #fire1img {
+      margin-top: 0px;
+      margin-left: 80px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+  
+    #fire1 {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+  
+  /* fire1 ends */
+  
+
+  
+/* Extin starts */
+
+#extinimg  {
+    margin-top: 100px;
+    margin-left: 10px;
+    width: 320px;
+  
+}
+
+#extin  {
+    margin-left: 100px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+}
+
+#extin ul {
+    text-indent: 30px;
+
+}
+
+
+@media screen and (max-width: 767px) {
+    #extinimg {
+      margin-top: 10px;
+      margin-left: 40px;
+      width: 80%;
+    }
+    #extin  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+      #extin ul {
+        text-indent: 30px;
+        margin-left: 20px;
+    
+    }
+  }
+
+ @media screen and (min-width:767px) and (max-width: 1023px) {
+    #extinimg {
+      margin-top: 10px;
+      margin-left: 80px;
+      width: 80%;
+    }
+  
+    #extin {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  
+  }
+
+/*  Extin ends */
+
+
+/* Blanket starts */
+
+#blanketimg {
+    margin-top: 20px;
+    margin-left: 150px;
+    width: 300px;
+  
+  }
+  
+  #blanket {
+    /* margin-left: 100px; */
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+    margin-top: 30px;
+  }
+  
+ 
+  
+  
+  @media screen and (max-width: 767px) {
+    #blanketimg {
+      margin-top: 0px;
+      margin-left: 40px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+    #blanket  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #blanketimg {
+      margin-top: 0px;
+      margin-left: 80px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+  
+    #blanket {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+  
+  /* Blanket ends */
+  
+
+
+  /* Hose starts */
+
+#hoseimg  {
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 300px;
+  
+}
+
+#hose  {
+    margin-left: 100px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+}
+
+
+
+@media screen and (max-width: 767px) {
+    #hoseimg {
+      margin-top: 10px;
+      margin-left: 40px;
+      width: 80%;
+    }
+    #hose  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+      
+  }
+
+ @media screen and (min-width:767px) and (max-width: 1023px) {
+    #hoseimg {
+      margin-top: 10px;
+      margin-left: 80px;
+      width: 80%;
+    }
+  
+    #hose {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  
+  }
+
+/*  Hose ends */
+
+
+
+/* Signage starts */
+
+#signageimg {
+    margin-top:20px;
+    margin-left: 150px;
+    width: 300px;
+  
+  }
+  
+  #signage {
+    /* margin-left: 100px; */
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+  }
+  
+ 
+  
+  
+  @media screen and (max-width: 767px) {
+    #signageimg {
+      margin-top: 0px;
+      margin-left: 40px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+    #signage  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #signageimg {
+      margin-top: 0px;
+      margin-left: 80px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+  
+    #signage {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+  
+  /* Signage ends */
+  
+
+
+  
+  /* Sprinklers starts */
+
+#sprinklersimg  {
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 300px;
+  
+}
+
+#sprinklers  {
+    margin-left: 100px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+    margin-top: 40px;
+}
+
+
+
+@media screen and (max-width: 767px) {
+    #sprinklersimg {
+      margin-top: 10px;
+      margin-left: 40px;
+      width: 80%;
+    }
+    #sprinklers  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+      
+  }
+
+ @media screen and (min-width:767px) and (max-width: 1023px) {
+    #sprinklersimg {
+      margin-top: 10px;
+      margin-left: 80px;
+      width: 80%;
+    }
+  
+    #sprinklers {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  
+  }
+
+/*  Sprinklers ends */
+
+
+
+/* Firstaid starts */
+
+#firstaidimg {
+    margin-top: 20px;
+    margin-left: 150px;
+    width: 300px;
+  
+  }
+  
+  #firstaid {
+    /* margin-left: 100px; */
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+  }
+  
+ 
+  
+  
+  @media screen and (max-width: 767px) {
+    #firstaidimg {
+      margin-top: 0px;
+      margin-left: 40px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+    #firstaid  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #firstaidimg {
+      margin-top: 0px;
+      margin-left: 80px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+  
+    #firstaid {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+  
+  /* Firstaid ends */
+
+
+/* Emergenncy starts */
+
+#emergencyimg  {
+    margin-top: 60px;
+    margin-left: 10px;
+    width: 300px;
+  
+}
+
+#emergency {
+    margin-left: 100px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+}
+
+
+
+@media screen and (max-width: 767px) {
+    #emergencyimg {
+      margin-top: 10px;
+      margin-left: 40px;
+      width: 80%;
+    }
+    #emergency  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+      
+  }
+
+ @media screen and (min-width:767px) and (max-width: 1023px) {
+    #emergencyimg {
+      margin-top: 10px;
+      margin-left: 80px;
+      width: 80%;
+    }
+  
+    #emergency {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  
+  }
+
+/*  Emergency ends */
+
+
+
+
+
+/* Smoke starts */
+
+#smokeimg {
+    margin-top: 10px;
+    margin-left: 150px;
+    width: 300px;
+  
+  }
+  
+  #smoke {
+    /* margin-left: 100px; */
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+  }
+  
+ 
+  
+  
+  @media screen and (max-width: 767px) {
+    #smokeimg {
+      margin-top: 0px;
+      margin-left: 40px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+    #smoke  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #smokeimg {
+      margin-top: 0px;
+      margin-left: 80px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+  
+    #smoke {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+  
+  /* Smoke ends */
+
+
+
+  
+/* Maintain starts */
+
+#maintainimg  {
+    margin-top: 35px;
+    margin-left: 10px;
+    width: 300px;
+  
+}
+
+#maintain {
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+}
+
+
+
+@media screen and (max-width: 767px) {
+    #maintainimg {
+      margin-top: 10px;
+      margin-left: 40px;
+      width: 80%;
+    }
+    #maintain {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+      
+  }
+
+ @media screen and (min-width:767px) and (max-width: 1023px) {
+    #maintainimg {
+      margin-top: 10px;
+      margin-left: 80px;
+      width: 80%;
+    }
+  
+    #maintain {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  
+  }
+
+/*  Maintain ends */
+
+
+#expand {
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+}

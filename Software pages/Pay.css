@@ -1,0 +1,306 @@
+
+/* pay1 starts */
+.card {
+  
+    font-weight: 600;
+    /* background-image: linear-gradient(to right, rgb(166, 179, 252), rgb(208, 228, 138)); */
+    border: none;
+    overflow: hidden;
+  
+  }
+  #payimg1 {
+    margin-top: 20px;
+    margin-left: 100px;
+    width: 380px;
+  
+  }
+  
+  #pay1 {
+    /* margin-left: 100px; */
+    font-size: 18px;
+    line-height: 35px;
+    text-indent: 80px;
+    text-align: justify;
+  }
+  
+ 
+  
+  @media screen and (max-width: 767px) {
+    #payimg1 {
+      margin-top: 0px;
+      margin-left: 40px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+    #pay1  {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 0px;
+        text-indent: 80px;
+      }
+  }
+  
+  @media screen and (min-width:767px) and (max-width: 1023px) {
+    #payimg1 {
+      margin-top: 0px;
+      margin-left: 80px;
+      margin-bottom: 10px;
+      width: 80%;
+    }
+  
+    #pay1 {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      text-indent: 80px;
+      margin-left: 0px;
+    }
+  }
+  
+  /* pay1 ends */
+
+
+
+
+  
+/* aboutpay starts */
+
+#aboutpayimg  {
+    margin-top: 100px;
+    margin-left: 10px;
+    /* height: 700px; */
+    width: 380px;
+  
+}
+
+#aboutpay ul {
+    margin-left: 80px;
+    font-size: 18px;
+    line-height: 35px;
+    /* text-indent: 20px; */
+    text-align: justify;
+}
+
+
+@media screen and (max-width: 767px) {
+    #aboutpayimg {
+      margin-top: 10px;
+      margin-left: 40px;
+      width: 80%;
+    }
+    #aboutpay ul{
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 10px;
+        /* text-indent: 20px; */
+      }
+   
+  }
+
+ @media screen and (min-width:767px) and (max-width: 1023px) {
+    #aboutpayimg {
+      margin-top: 10px;
+      margin-left: 80px;
+      width: 80%;
+    }
+  
+    #aboutpay ul {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      /* text-indent: 20px; */
+      margin-left: 0px;
+    }
+  }
+
+/* aboutpay ends */
+
+
+/* needs starts */
+
+
+
+#needsimg  {
+    margin-top: 120px;
+    margin-left: 100px;
+    /* height: 700px; */
+    width: 380px;
+  
+}
+
+#needs ul {
+    margin-left: 40px;
+    font-size: 18px;
+    line-height: 35px;
+    /* text-indent: 20px; */
+    text-align: justify;
+}
+
+
+@media screen and (max-width: 767px) {
+    #needsimg {
+      margin-top: 10px;
+      margin-left: 40px;
+      width: 80%;
+    }
+    #needs ul{
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 10px;
+        /* text-indent: 20px; */
+      }
+   
+  }
+
+ @media screen and (min-width:767px) and (max-width: 1023px) {
+    #needsimg {
+      margin-top: 10px;
+      margin-left: 80px;
+      width: 80%;
+    }
+  
+    #needs ul {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      /* text-indent: 20px; */
+      margin-left: 0px;
+    }
+  }
+
+
+
+/* needs starts */
+
+
+/* benefits starts */
+
+
+
+#benefitsimg  {
+    margin-top: 120px;
+    margin-left: 10px;
+    /* height: 700px; */
+    width: 380px;
+  
+}
+
+#benefits ul {
+    margin-left: 80px;
+    font-size: 18px;
+    line-height: 35px;
+    /* text-indent: 20px; */
+    text-align: justify;
+}
+
+
+@media screen and (max-width: 767px) {
+    #benefitsimg {
+      margin-top: 10px;
+      margin-left: 40px;
+      width: 80%;
+    }
+    #benefits ul{
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 10px;
+        /* text-indent: 20px; */
+      }
+   
+  }
+
+ @media screen and (min-width:767px) and (max-width: 1023px) {
+    #benefitsimg {
+      margin-top: 10px;
+      margin-left: 80px;
+      width: 80%;
+    }
+  
+    #benefits ul {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      /* text-indent: 20px; */
+      margin-left: 0px;
+    }
+  }
+
+/* benefits ends */
+
+
+
+
+/* featutes starts */
+
+
+
+
+#features ul {
+    margin-left: 120px;
+    font-size: 18px;
+    line-height: 35px;
+    /* text-indent: 20px; */
+    text-align: justify;
+}
+
+#features1 ul {
+    margin-left: 120px;
+    font-size: 18px;
+    line-height: 35px;
+    /* text-indent: 20px; */
+    text-align: justify;
+  }
+
+
+@media screen and (max-width: 767px) {
+   
+    #features ul{
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        margin-left: 20px;
+        /* text-indent: 20px; */
+      }
+      #features1 ul {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        text-indent: 20px;
+        margin-left: 40px;
+      }
+   
+  }
+
+ @media screen and (min-width:767px) and (max-width: 1023px) {
+  
+  
+    #features ul {
+      width: 700px;
+      font-size: 18px;
+      line-height: 35px;
+      /* text-indent: 20px; */
+      margin-left: 50px;
+    }
+    #features1 ul {
+        width: 700px;
+        font-size: 18px;
+        line-height: 35px;
+        text-indent: 20px;
+        margin-left: 170px;
+      }
+  }
+
+
+
+/* featutes ends */
+
+
+
+.table {
+    border: 1px solid black;
+    text-align: center;
+}
